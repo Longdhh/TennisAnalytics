@@ -1,0 +1,1 @@
+from .court_key_points_detection import CourtKeyPointsDetection
